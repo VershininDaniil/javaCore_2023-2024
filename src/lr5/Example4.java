@@ -11,7 +11,7 @@ package lr5;
 //сотые).
 public class Example4 {
     public static void main(String[] args) {
-      Math Math  = new Math(char b , int a);
+
 
     }
     // я не понял как сделать =(
